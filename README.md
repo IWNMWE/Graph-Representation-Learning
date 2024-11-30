@@ -13,4 +13,3 @@ This repository contains implementations of various graph representation learnin
 
 ## Work in progress
 - Janossy Pooling
-- Set Aggregation
