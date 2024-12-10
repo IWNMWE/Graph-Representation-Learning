@@ -10,6 +10,7 @@ This repository contains implementations of various graph representation learnin
 - Graph Neural Networks (GNNs)
 - Factorization-based Embeddings
 - Random Walk-based Methods
+- Deep Sets
 
 ## Work in progress
 - Janossy Pooling
