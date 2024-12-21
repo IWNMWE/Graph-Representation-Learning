@@ -11,6 +11,7 @@ This repository contains implementations of various graph representation learnin
 - Factorization-based Embeddings
 - Random Walk-based Methods
 - Deep Sets
+- Traditional Graph generation (ER, PA, SBM)
 
 ## Work in progress
 - Janossy Pooling
