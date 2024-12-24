@@ -12,8 +12,9 @@ This repository contains implementations of various graph representation learnin
 - Random Walk-based Methods
 - Deep Sets
 - Traditional Graph generation (ER, PA, SBM)
+- Skip Connections
 
 ## Work in progress
-- Janossy Pooling
 - Pooling
+- Graph Attention Networks
 - Link Prediction
