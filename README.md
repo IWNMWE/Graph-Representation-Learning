@@ -13,8 +13,9 @@ This repository contains implementations of various graph representation learnin
 - Deep Sets
 - Traditional Graph generation (ER, PA, SBM)
 - Skip Connections
+- Graph Attention Networks
+- Graph spectral clustering
 
 ## Work in progress
 - Pooling
-- Graph Attention Networks
 - Link Prediction
