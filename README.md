@@ -19,3 +19,4 @@ This repository contains implementations of various graph representation learnin
 ## Work in progress
 - Pooling
 - Link Prediction
+- Simple Graph Convolution
