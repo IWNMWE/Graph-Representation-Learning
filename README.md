@@ -15,8 +15,11 @@ This repository contains implementations of various graph representation learnin
 - Skip Connections
 - Graph Attention Networks
 - Graph spectral clustering
+- Simple Graph Convolution
+- Graph VAE
+- Graph AE
 
 ## Work in progress
 - Pooling
 - Link Prediction
-- Simple Graph Convolution
+- Graph GAN
