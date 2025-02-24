@@ -16,7 +16,7 @@ This repository contains implementations of various graph representation learnin
 - Graph Attention Networks
 - Graph spectral clustering
 - Simple Graph Convolution
-- Graph VAE
+- Graph VAE (node latents & graph latents)
 - Graph AE
 
 ## Work in progress
