@@ -18,6 +18,7 @@ This repository contains implementations of various graph representation learnin
 - Simple Graph Convolution
 - Graph VAE (node latents & graph latents)
 - Graph AE
+- Graph EBM
 
 ## Work in progress
 - Pooling
